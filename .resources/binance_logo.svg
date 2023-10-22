@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="binance_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.1373683"
+     inkscape:cx="76.618753"
+     inkscape:cy="70.697114"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g24-7"
+       style="display:inline;overflow:hidden;fill:currentColor"
+       transform="matrix(0.1299755,0,0,0.12997806,-99.301282,13.517718)">
+      <g
+         id="g25">
+        <path
+           d="M 865.79,-104 C 809.572,-104 764,-58.434 764,-2.224 764,53.994 809.57,99.56 865.79,99.56 921.994,99.56 967.564,53.994 967.564,-2.224 967.564,-58.434 921.994,-104 865.79,-104 Z"
+           fill="#330D84"
+           id="path17-9-0-7"
+           style="overflow:hidden;fill:#575757;fill-opacity:1" />
+        <path
+           d="m 865.79,-78.618 c -42.196,0 -76.402,34.202 -76.402,76.396 0,42.196 34.208,76.402 76.402,76.402 42.188,0 76.394,-34.206 76.394,-76.402 0.002,-42.194 -34.206,-76.396 -76.394,-76.396 z"
+           fill="#5932AE"
+           id="path18-5-0-1"
+           style="overflow:hidden;fill:#f3ba2f;fill-opacity:1" />
+        <g
+           id="g5"
+           transform="matrix(0.06976404,0,0,0.06976404,778.72048,-89.284522)">
+          <path
+             style="fill:#ffffff"
+             d="m 685.9,1248 0.9,330 280.4,165 v 193.2 L 522.7,1675.5 v -524 z m 0,-330 v 192.3 L 522.6,1013.7 V 821.4 L 685.9,724.8 850,821.4 Z m 398.4,-96.6 163.3,-96.6 164.1,96.6 -164.1,96.6 z"
+             id="path2-6" />
+          <path
+             style="fill:#ffffff"
+             d="m 803.9,1509.6 v -193.2 l 163.3,96.6 v 192.3 z m 280.4,302.6 163.3,96.6 164.1,-96.6 v 192.3 l -164.1,96.6 -163.3,-96.6 z m 561.6,-990.8 163.3,-96.6 164.1,96.6 v 192.3 l -164.1,96.6 V 918 Z m 163.3,756.6 0.9,-330 163.3,-96.6 v 524 l -444.5,260.7 v -193.2 z"
+             id="path3" />
+          <polygon
+             style="fill:#ffffff"
+             points="1692.1,1316.4 1692.1,1509.6 1528.8,1605.3 1528.8,1413 "
+             id="polygon3-5" />
+          <path
+             style="fill:#ffffff"
+             d="m 1692.1,986.4 0.9,193.2 -281.2,165 v 330.8 l -163.3,95.7 -163.3,-95.7 V 1344.6 L 804,1179.6 V 986.4 l 164,-96.6 279.5,165.8 281.2,-165.8 164.1,96.6 z M 803.9,656.5 1247.6,394.9 1692.1,656.5 1528.8,753.1 1247.6,587.3 967.2,753.1 Z"
+             id="path4" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
