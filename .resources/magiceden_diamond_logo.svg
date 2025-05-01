@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="magiceden_diamond_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0334082"
+     inkscape:cx="607.3547"
+     inkscape:cy="696.12192"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"><g
+       id="g1"
+       transform="matrix(0.87813609,0,0,0.80501775,4.143431,29.491203)"
+       inkscape:export-filename="magiceden_diamond_logo.png"
+       inkscape:export-xdpi="138.70082"
+       inkscape:export-ydpi="138.70082"><polygon
+         style="fill:#aa57e9;fill-opacity:1"
+         points="414.217,12.53 97.784,12.53 0.001,146.167 256,499.47 512,146.167 "
+         id="polygon1"
+         transform="matrix(0.05213542,0,0,0.05213542,155.72208,175.94204)" /><g
+         id="g4"
+         transform="matrix(0.05213542,0,0,0.05213542,155.72208,175.94204)">
+	<polygon
+   style="fill:#aa57e9;fill-opacity:1"
+   points="97.786,12.53 170.663,146.172 0,146.172 "
+   id="polygon2" />
+	<polygon
+   style="fill:#cb73fe;fill-opacity:1"
+   points="414.217,12.53 341.327,146.172 255.995,12.53 "
+   id="polygon3" />
+	<polygon
+   style="fill:#cb73fe;fill-opacity:1"
+   points="341.327,146.172 255.995,499.467 170.663,146.172 "
+   id="polygon4" />
+</g><g
+         id="g7"
+         transform="matrix(0.05213542,0,0,0.05213542,155.72208,175.94204)">
+	<polygon
+   style="fill:#cb73fe;fill-opacity:1"
+   points="414.217,12.53 511.99,146.172 341.327,146.172 "
+   id="polygon5" />
+	<polygon
+   style="fill:#dbb0fe;fill-opacity:1"
+   points="255.995,12.53 341.327,146.172 170.663,146.172 "
+   id="polygon6" />
+	<polygon
+   style="fill:#dbb0fe;fill-opacity:1"
+   points="170.663,146.172 255.995,499.467 0,146.172 "
+   id="polygon7" />
+</g></g></g></svg>
